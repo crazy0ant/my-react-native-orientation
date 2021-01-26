@@ -1,3 +1,5 @@
+## from https://github.com/yamill/react-native-orientation
+
 ## React Native Orientation
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
